@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+#//making all scripts executable
+chmod +x *.sh
+
 
 #//copy zshrc
 cp zshrc $HOME/.zshrc #copy zshrc
