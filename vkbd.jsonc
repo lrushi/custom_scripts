@@ -1,0 +1,5 @@
+"custom/vkbd": {
+    "format": "\udb82\udc94",
+    "rotate": ${r_deg},
+    "on-click": "vkbd.sh"
+},

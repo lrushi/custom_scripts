@@ -1,0 +1,1 @@
+Method one fork and add those Changes to your fork, Method two add them in the cloned repo and that's it, Method 3 make an Independent repo, Clone Hyde edit and use this. All three methods can't use Hyde-cli 'cause khing hardcoded the restore_cfg.lst File in there
