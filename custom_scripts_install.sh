@@ -24,3 +24,6 @@ cp config.ctl $HOME/.config/waybar/config.ctl
 #//copy MangoHud
 cp MangoHud.conf $HOME/.var/app/com.valvesoftware.Steam/config/MangoHud/MangoHud.conf
 cp MangoHud.conf  $HOME/.config/MangoHud/MangoHud.conf
+
+#//copy clock
+cp clock.jsonc $HOME/.config/waybar/modules/clock.jsonc
