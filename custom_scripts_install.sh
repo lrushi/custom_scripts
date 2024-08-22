@@ -5,7 +5,7 @@ chmod +x *.sh
 
 
 #//copy zshrc
-cp zshrc $HOME/.zshrc #copy zshrc
+cp .zshrc $HOME/.zshrc #copy zshrc
 
 #//copy kitty.conf
 cp kitty.conf $HOME/.config/kitty/kitty.conf
