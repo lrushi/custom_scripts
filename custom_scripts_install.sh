@@ -27,3 +27,4 @@ cp MangoHud.conf  $HOME/.config/MangoHud/MangoHud.conf
 
 #//copy clock
 cp clock.jsonc $HOME/.config/waybar/modules/clock.jsonc
+
