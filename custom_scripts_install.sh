@@ -17,6 +17,9 @@ cp userprefs.conf $HOME/.config/hypr/userprefs.conf
 #//copy virtual keyboard module
 cp vkbd.jsonc $HOME/.config/waybar/modules/vkbd.jsonc
 
+#//copy keybindhint module with changed logo 
+cp keybindhint.jsonc $HOME/.config/waybar/modules/keybindhint.jsonc
+
 
 #//copy waybar layouts for vkbd
 cp config.ctl $HOME/.config/waybar/config.ctl
