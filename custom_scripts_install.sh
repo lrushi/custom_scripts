@@ -21,9 +21,6 @@ cp vkbd.jsonc $HOME/.config/waybar/modules/vkbd.jsonc
 cp keybindhint.jsonc $HOME/.config/waybar/modules/keybindhint.jsonc
 
 
-#//copy waybar layouts for vkbd
-cp config.ctl $HOME/.config/waybar/config.ctl
-
 #//copy MangoHud
 cp MangoHud.conf $HOME/.var/app/com.valvesoftware.Steam/config/MangoHud/MangoHud.conf
 cp MangoHud.conf  $HOME/.config/MangoHud/MangoHud.conf
@@ -32,4 +29,6 @@ cp MangoHud.conf  $HOME/.config/MangoHud/MangoHud.conf
 cp clock.jsonc $HOME/.config/waybar/modules/clock.jsonc
 
 
+#//copy waybar layouts for vkbd
+cp config.ctl  $HOME/.config/waybar/config.ctl
 
