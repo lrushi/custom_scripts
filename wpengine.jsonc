@@ -1,0 +1,5 @@
+"custom/wpengine": {
+    "format": "\udb83\ude09 ",
+    "rotate": ${r_deg},
+    "on-click": "wpengine.sh"
+},

@@ -21,6 +21,10 @@ cp vkbd.jsonc $HOME/.config/waybar/modules/vkbd.jsonc
 cp keybindhint.jsonc $HOME/.config/waybar/modules/keybindhint.jsonc
 
 
+#//copy wallpaper engine module
+cp wpengine.jsonc $HOME/.config/waybar/modules/wpengine.jsonc
+
+
 #//copy MangoHud
 cp MangoHud.conf $HOME/.var/app/com.valvesoftware.Steam/config/MangoHud/MangoHud.conf
 cp MangoHud.conf  $HOME/.config/MangoHud/MangoHud.conf
