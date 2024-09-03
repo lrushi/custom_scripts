@@ -94,5 +94,4 @@ export HIP_VISIBLE_DEVICES=0
 
 alias btw="clear && fastfetch --logo arch_small" 
 #figlet I use Arch btw
-alias prefs="nano .config/hypr/userprefs.conf"
 alias protontricks='flatpak run com.github.Matoking.protontricks'

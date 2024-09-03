@@ -5,7 +5,7 @@ export STATUS_FILE="$XDG_RUNTIME_DIR/WPENGINE.status"
 enable_wpengine() {
     printf "true" >"$STATUS_FILE"
    #notify-send -u normal "Enabling virtual keyboard"
-    linux-wallpaperengine --scaling fill --screen-root eDP-2 1811167820
+    linux-wallpaperengine --scaling fill --screen-root eDP-2 2311192580 
 }
 
 disable_wpengine() {
