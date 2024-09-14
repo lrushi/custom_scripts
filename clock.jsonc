@@ -1,4 +1,5 @@
 "clock": {
+	"timezone": "Asia/Kolkata",
         "format": "{:%A %d %B %I:%M %p}",
         "rotate": ${r_deg},
         "tooltip-format": "<span>{calendar}</span>",
