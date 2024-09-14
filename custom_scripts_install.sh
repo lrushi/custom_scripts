@@ -36,3 +36,5 @@ cp clock.jsonc $HOME/.config/waybar/modules/clock.jsonc
 #//copy waybar layouts for vkbd
 cp config.ctl  $HOME/.config/waybar/config.ctl
 
+#//copy custom workspaces
+cp workspacesrw.jsonc $HOME/.config/waybar/modules/workspacesrw.jsonc
