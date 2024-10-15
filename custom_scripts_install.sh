@@ -38,3 +38,7 @@ cp config.ctl  $HOME/.config/waybar/config.ctl
 
 #//copy custom workspaces
 #cp workspacesrw.jsonc $HOME/.config/waybar/modules/workspacesrw.jsonc
+
+
+#KDE virtual keyboard
+cp vk.sh $HOME/.config/plasma-workspace/env/vk.sh
