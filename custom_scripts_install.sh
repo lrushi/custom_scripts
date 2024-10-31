@@ -17,12 +17,12 @@ cp userprefs.conf $HOME/.config/hypr/userprefs.conf
 #//copy virtual keyboard module
 cp vkbd.jsonc $HOME/.config/waybar/modules/vkbd.jsonc
 
+#//copy nightlight module
+cp nightlight.jsonc $HOME/.config/waybar/modules/nightlight.jsonc
+
+
 #//copy keybindhint module with changed logo 
 cp keybindhint.jsonc $HOME/.config/waybar/modules/keybindhint.jsonc
-
-
-#//copy wallpaper engine module
-cp wpengine.jsonc $HOME/.config/waybar/modules/wpengine.jsonc
 
 
 #//copy MangoHud

@@ -1,0 +1,5 @@
+"custom/nightlight": {
+    "format": "\udb86\ude4c ",
+    "rotate": ${r_deg},
+    "on-click": "nightlight.sh"
+},
